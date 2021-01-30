@@ -1,0 +1,33 @@
+{
+    "name": "New Controls",
+    "maps": [
+        {
+            "name": "Personaje",
+            "id": "e384a6eb-ed9d-4c5a-baa6-3c7cf7b33a98",
+            "actions": [
+                {
+                    "name": "Saltar",
+                    "type": "Button",
+                    "id": "7334e635-6d62-44e2-ae16-1a9417823e6d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e19170e4-da97-4513-a1b9-0f6dea5dd49b",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Saltar",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
